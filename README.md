@@ -1,16 +1,18 @@
 # Recommender System using Collaborative Filtering
 
-> **📚 Master's Project** | University of Illinois at Chicago  
+> **📚 Course Project** | IDS 572: Data Mining for Business  
+> **🏫 University of Illinois at Chicago**  
 > **⏰ Completed:** Fall 2015  
 > **📝 Last Updated:** February 2026 (documentation only)  
-> **🔍 [View Development Timeline](../../commits/main)** - See original commits from 2015
+> **🔍 [View Development Timeline](../../commits/main)** - See original commits from Fall 2015
 
 ---
 
 ## Overview
 
-Built a movie recommendation engine using collaborative filtering techniques on the MovieLens dataset. Implemented both user-based and item-based approaches, as well as matrix factorization using SVD, to predict user ratings and generate personalized movie recommendations.
+Built a movie recommendation engine using collaborative filtering techniques on the MovieLens dataset as part of the Data Mining for Business course. Implemented both user-based and item-based approaches, as well as matrix factorization using SVD, to predict user ratings and generate personalized movie recommendations.
 
+**Course:** IDS 572 - Data Mining for Business  
 **Technologies:** Python, Scikit-learn, Pandas, NumPy, Matplotlib
 
 ---
@@ -78,9 +80,9 @@ Built a movie recommendation engine using collaborative filtering techniques on 
 
 ---
 
-## Context
+## Academic Context
 
-This project was completed in **Fall 2015**, years before recommendation systems became ubiquitous in modern platforms. The techniques learned here—similarity metrics, matrix factorization, and handling sparse data—remain fundamental to recommendation engines at companies like Netflix, Amazon, and Spotify.
+This project was part of **IDS 572: Data Mining for Business** at UIC, completed in **Fall 2015**—years before recommendation systems became ubiquitous in modern platforms. The techniques learned here (similarity metrics, matrix factorization, handling sparse data) remain fundamental to recommendation engines at companies like Netflix, Amazon, and Spotify.
 
 ---
 
